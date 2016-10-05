@@ -9,3 +9,11 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+# ls
+>ls
+
+Here's more information about the ls command:
+
+* If you type `ls -l`, it prints out list in long format
+* If you type `ls -a`, it prints out directory entries whose names begin with a dot(.)
